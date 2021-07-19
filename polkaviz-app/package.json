@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@polkadot/api": "^1.12.2",
+    "@polkadot/api": "^5.1.1",
     "bs58": "^4.0.1",
     "konva": "^3.4.1",
     "react": "^16.8.6",
